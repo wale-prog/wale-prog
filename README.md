@@ -1,10 +1,19 @@
-## Hi there, I'm Wale 👋
+### Hi there 👋, My name is Wale
+#### I am a Full Stack web developer
+Hello, my name is Wale. I am a full-stack developer currently working as a code reviewer at Microverse, a remote software development school. I enjoy working with Ruby on Rails, JavaScript, React, HTML and CSS. You can check out my LinkedIn at https://www.linkedin.com/in/walepetan/
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=wale-prog&show_icons=true&theme=radical" />
-<img align="left" width="47%" margin-bottom="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wale-prog&layout=compact" />
+Skills: REACT / JS / HTML / CSS/Redux/Ruby/Ruby on Rails
 
-<img align= "left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align= "left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning NodeJs 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wale-prog)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/walepetan//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wale-prog)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wale-prog&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=wale-prog)  
+
+![Profile views](https://gpvc.arturio.dev/wale-prog)  
