@@ -5,8 +5,8 @@ Hello, my name is Wale. I am a full-stack developer currently working as a code 
 ## Skills and Experience
 * ⚛️ React
 * 💻 HTML, CSS, JS
-* Redux
-* Ruby on Rails
+* 💻Redux
+* 💻Ruby on Rails
 
 
 - 🔭 I’m currently working on this page. 
