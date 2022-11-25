@@ -1,6 +1,6 @@
 # Wale Olapetan
 
-Hello, my name is Wale. I am a full-stack developer currently working as a code reviewer at Microverse, a remote software development school. I enjoy working with Ruby on Rails, JavaScript, React, HTML and CSS.
+Hello, my name is Wale. I am a full-stack developer currently working as a code reviewer at Microverse, a remote software development school. I enjoy working with Ruby on Rails, JavaScript, React, HTML and CSS. I am open to remote job opportunities, please take a look around and do not hesitate to contact me. 
 
 ## Skills and Experience
 * ⚛️ React
