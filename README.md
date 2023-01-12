@@ -10,7 +10,7 @@ Hello, my name is Wale. I am a full-stack developer currently working as a code 
 
 - 🌱 I’m currently learning NodeJs 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wale-prog&show_icons=true)  
+![Wale's GitHub stats](https://github-readme-stats.vercel.app/api?username=wale-prog&show_icons=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=wale-prog)  
 
